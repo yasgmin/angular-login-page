@@ -35,6 +35,7 @@ main {
       font-size: 20px;
       font-weight: bold;
       margin-bottom: 45px;
+      color: $text-color-login;
     }
 
     .btn-wrapper {
@@ -91,5 +92,8 @@ main {
         }
       }
     }
+  }
+  h1 {
+    color: $text-color-img;
   }
 }
